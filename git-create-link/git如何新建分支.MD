@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 20:40:02
- * @LastEditTime: 2019-12-04 22:20:05
+ * @LastEditTime: 2019-12-04 22:21:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\git如何新建分支.MD
@@ -16,7 +16,7 @@
 
       git checkout -b panda
 
-git branch可以看到已经在panda分支上
+*  git branch可以看到已经在panda分支上
 
 ##  3)更新分支代码并提交
 
