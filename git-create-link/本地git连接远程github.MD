@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 20:18:52
- * @LastEditTime: 2019-12-04 20:28:31
+ * @LastEditTime: 2019-12-04 20:30:17
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\本地git连接远程github.MD
@@ -70,7 +70,8 @@ git push -u github master
 git push -u gitee master
 
 通过两句git push命令我们确实可以向两个远程仓库推送代码，但是作为一个喜欢偷懒的程序员的同学绝不满足于此，于是他就想有没有一种方式可以一句命令就同时push到两个远程仓库。于是乎就有了下面的操作。修改了.git/config文件中的内容。原文件内容如下：
-[core]
+ 
+    [core]
     repositoryformatversion = 0
     filemode = false
     bare = false
