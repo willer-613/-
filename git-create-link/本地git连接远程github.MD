@@ -1,12 +1,14 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 20:18:52
- * @LastEditTime: 2019-12-04 22:28:14
+ * @LastEditTime: 2019-12-04 22:32:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\本地git连接远程github.MD
  -->
 # 步骤如下
+
+### ![命令](https://img.shields.io/badge/Git2Github-如何是本地git连接到远程git库-green.svg  "如何新建分支便于本地git连接到远程github库")
 
 ## 一、设置git的user name和email
 如果你是第一次使用，或者还没有配置过的话需要操作一下命令，自行替换相应字段。

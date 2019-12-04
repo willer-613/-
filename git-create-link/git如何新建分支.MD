@@ -1,12 +1,14 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 20:40:02
- * @LastEditTime: 2019-12-04 22:21:38
+ * @LastEditTime: 2019-12-04 22:31:02
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\git如何新建分支.MD
  -->
 # git如何新建分支
+
+### ![命令](https://img.shields.io/badge/Brench-如何新建分支-green.svg  "如何新建分支便于本地git连接到远程github库")
 
 ##  1) 切换到基础分支，如主干
 

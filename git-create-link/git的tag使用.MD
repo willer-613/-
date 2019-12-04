@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 21:15:48
- * @LastEditTime: 2019-12-04 22:16:09
+ * @LastEditTime: 2019-12-04 22:29:40
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\git的tag使用.MD
@@ -9,7 +9,7 @@
 ## git打上tag
 --------------------------------------------
 
-### ![命令](https://img.shields.io/badge/TAG-如何使用Tag-green.svg  "悬停提示")
+### ![命令](https://img.shields.io/badge/TAG-如何使用Tag-green.svg  "如何使用tag方便以后版本回退")
 
        git tag
 
