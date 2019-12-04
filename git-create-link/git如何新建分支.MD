@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 20:40:02
- * @LastEditTime: 2019-12-04 22:31:02
+ * @LastEditTime: 2019-12-04 22:42:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\git如何新建分支.MD
@@ -29,7 +29,4 @@
       git push origin panda
 
 ##  4)在git代码管理界面经可以看到panda分支了
------
 
->>>>>>>>>>>OVER
------------------------
