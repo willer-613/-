@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 20:40:02
- * @LastEditTime: 2019-12-04 20:40:59
+ * @LastEditTime: 2019-12-04 20:46:29
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\git如何新建分支.MD
@@ -26,4 +26,4 @@ git commit -m "init panda"
 
 git push origin panda
 
-##  4)在git代码管理界面经可以看到panda分支了，成功~~
+##  4)在git代码管理界面经可以看到panda分支了，成功
