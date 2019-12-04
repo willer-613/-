@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 20:18:52
- * @LastEditTime: 2019-12-04 20:30:17
+ * @LastEditTime: 2019-12-04 20:32:33
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\本地git连接远程github.MD
@@ -37,6 +37,7 @@ GitHub点击用户头像，选择setting--->>>新建一个SSH Key--->>取个名�
 测试是否成功配置SSH Key
 
 ssh -T git@github.com
+
 //运行结果出现类似如下
 Hi XXXXXX! You've successfully authenticated, but GitHub does not provide shell access.
 
