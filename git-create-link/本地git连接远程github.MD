@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-04 20:18:52
- * @LastEditTime: 2019-12-04 20:32:33
+ * @LastEditTime: 2019-12-04 21:44:31
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \informal-essay\git-create-link\本地git连接远程github.MD
@@ -12,7 +12,7 @@
 如果你是第一次使用，或者还没有配置过的话需要操作一下命令，自行替换相应字段。
 
 git config --global user.name "XXXX"
-git config --global user.email  "XXX@gmail.com"
+git config --global user.email  "XXX@gmail.com" 
 
 说明：git config --list 查看当前Git环境所有配置，还可以配置一些命令别名之类的。
 
